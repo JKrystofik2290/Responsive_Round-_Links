@@ -1,0 +1,22 @@
+<!-- add this to your html where you want your links -->
+
+<div id="projectsMenu">
+  <ul>
+    <li class="roundLink">
+      <div class="bw">
+        <a href="#" >bw</a>
+      </div>
+      <div class="clr">
+        <a href="#" >clr</a>
+      </div>
+    </li>
+    <li class="roundLink">
+      <div class="bw">
+        <a href="#" >bw</a>
+      </div>
+      <div class="clr">
+        <a href="#" >clr</a>
+      </div>
+    </li>
+  </ul> 
+</div>
